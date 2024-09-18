@@ -1,0 +1,19 @@
+{
+  "name": "dotenv-package-clone",
+  "version": "1.0.0",
+  "description": "Dotenv package's clone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farruhzoirov/dotenv-package-clone.git"
+  },
+  "author": "Farruh Zoirov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farruhzoirov/dotenv-package-clone/issues"
+  },
+  "homepage": "https://github.com/farruhzoirov/dotenv-package-clone#readme"
+}
